@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">breadTree</string>
+    <string name="app_name_en">breadTree</string>
+    <string name="app_name">面包树</string>
 </resources>
