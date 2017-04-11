@@ -1,6 +1,6 @@
-package com.rkcoe.breadtree.mvp.module.entity;
+package com.rkcoe.breadtree.mvp.model.entity;
 
-import com.rkcoe.breadtree.mvp.module.api.Api;
+import com.rkcoe.breadtree.mvp.model.api.Api;
 
 import java.io.Serializable;
 

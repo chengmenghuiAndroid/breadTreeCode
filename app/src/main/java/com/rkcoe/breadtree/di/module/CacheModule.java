@@ -1,7 +1,7 @@
 package com.rkcoe.breadtree.di.module;
 
 
-import com.rkcoe.breadtree.mvp.module.api.cache.CommonCache;
+import com.rkcoe.breadtree.mvp.model.api.cache.CommonCache;
 
 import javax.inject.Singleton;
 
@@ -20,6 +20,4 @@ public class CacheModule {
     CommonCache provideCommonService(RxCache rxCache) {
         return rxCache.using(CommonCache.class);
     }
-
-
 }

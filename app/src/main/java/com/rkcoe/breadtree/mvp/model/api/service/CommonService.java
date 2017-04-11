@@ -1,4 +1,4 @@
-package com.rkcoe.breadtree.mvp.module.api.service;
+package com.rkcoe.breadtree.mvp.model.api.service;
 
 /**
  * 存放通用的一些API

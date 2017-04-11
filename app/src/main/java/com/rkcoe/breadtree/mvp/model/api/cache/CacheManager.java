@@ -1,4 +1,4 @@
-package com.rkcoe.breadtree.mvp.module.api.cache;
+package com.rkcoe.breadtree.mvp.model.api.cache;
 
 import com.jess.arms.http.BaseCacheManager;
 

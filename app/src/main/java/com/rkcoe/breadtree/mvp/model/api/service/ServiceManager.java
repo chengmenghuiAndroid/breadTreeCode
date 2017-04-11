@@ -1,7 +1,6 @@
-package common;
+package com.rkcoe.breadtree.mvp.model.api.service;
 
 import com.jess.arms.http.BaseServiceManager;
-import com.rkcoe.breadtree.mvp.module.api.service.CommonService;
 
 import javax.inject.Inject;
 import javax.inject.Singleton;

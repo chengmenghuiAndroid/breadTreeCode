@@ -1,7 +1,7 @@
 package com.rkcoe.breadtree.di.module;
 
 
-import com.rkcoe.breadtree.mvp.module.api.service.CommonService;
+import com.rkcoe.breadtree.mvp.model.api.service.CommonService;
 
 import javax.inject.Singleton;
 
@@ -19,6 +19,6 @@ public class ServiceModule {
     @Provides
     CommonService provideCommonService(Retrofit retrofit) {
         return retrofit.create(CommonService.class);
-    }
 
+    }
 }

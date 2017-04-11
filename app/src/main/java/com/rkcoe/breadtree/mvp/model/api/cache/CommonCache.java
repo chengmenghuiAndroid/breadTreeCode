@@ -1,4 +1,4 @@
-package com.rkcoe.breadtree.mvp.module.api.cache;
+package com.rkcoe.breadtree.mvp.model.api.cache;
 
 /**
  * Created by jess on 8/30/16 13:53

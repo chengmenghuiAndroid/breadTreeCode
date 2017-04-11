@@ -11,7 +11,8 @@ import com.jess.arms.di.module.ImageModule;
 import com.jess.arms.widget.imageloader.ImageLoader;
 import com.rkcoe.breadtree.di.module.CacheModule;
 import com.rkcoe.breadtree.di.module.ServiceModule;
-import com.rkcoe.breadtree.mvp.module.api.cache.CacheManager;
+import com.rkcoe.breadtree.mvp.model.api.cache.CacheManager;
+import com.rkcoe.breadtree.mvp.model.api.service.ServiceManager;
 
 import javax.inject.Singleton;
 

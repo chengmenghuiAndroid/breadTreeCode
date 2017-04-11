@@ -10,7 +10,7 @@ import com.jess.arms.utils.UiUtils;
 import com.rkcoe.breadtree.BuildConfig;
 import com.rkcoe.breadtree.di.module.CacheModule;
 import com.rkcoe.breadtree.di.module.ServiceModule;
-import com.rkcoe.breadtree.mvp.module.api.Api;
+import com.rkcoe.breadtree.mvp.model.api.Api;
 import com.squareup.leakcanary.LeakCanary;
 import com.squareup.leakcanary.RefWatcher;
 
